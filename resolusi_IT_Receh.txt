@@ -1,4 +1,4 @@
 1. Membuat content tutorial excel
 2. Membuat tutorial power point
-3. Membuat tutorial VB.net
-4. Membuat tutorial MySQL 
+3. Membuat tutorial SQL Server
+4. Membuat tutorial C#
